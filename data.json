@@ -1,0 +1,62 @@
+{
+data: [ {
+    'uid': 'map_001',
+    'name': 'New York City',
+    'place': 'USA',
+    'url': 'https://example.com/nyc_map.png',
+  },
+  {
+    'uid': 'map_002',
+    'name': 'Paris',
+    'place': 'France',
+    'url': 'https://example.com/paris_map.png',
+  },
+  {
+    'uid': 'map_003',
+    'name': 'Tokyo',
+    'place': 'Japan',
+    'url': 'https://example.com/tokyo_map.png',
+  },
+  {
+    'uid': 'map_004',
+    'name': 'Sydney',
+    'place': 'Australia',
+    'url': 'https://example.com/sydney_map.png',
+  },
+  {
+    'uid': 'map_005',
+    'name': 'London',
+    'place': 'United Kingdom',
+    'url': 'https://example.com/london_map.png',
+  },
+  {
+    'uid': 'map_006',
+    'name': 'Rio de Janeiro',
+    'place': 'Brazil',
+    'url': 'https://example.com/rio_map.png',
+  },
+  {
+    'uid': 'map_007',
+    'name': 'Cape Town',
+    'place': 'South Africa',
+    'url': 'https://example.com/capetown_map.png',
+  },
+  {
+    'uid': 'map_008',
+    'name': 'Moscow',
+    'place': 'Russia',
+    'url': 'https://example.com/moscow_map.png',
+  },
+  {
+    'uid': 'map_009',
+    'name': 'Toronto',
+    'place': 'Canada',
+    'url': 'https://example.com/toronto_map.png',
+  },
+  {
+    'uid': 'map_010',
+    'name': 'Dubai',
+    'place': 'UAE',
+    'url': 'https://example.com/dubai_map.png',
+  },
+];}
