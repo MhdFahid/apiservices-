@@ -1,5 +1,4 @@
-{
- 'data':[
+[
   {
     'uid': 'map_001',
     'name': 'New York City',
@@ -61,4 +60,3 @@
     'url': 'https://example.com/dubai_map.png',
   },
 ]
-}
