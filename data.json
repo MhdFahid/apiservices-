@@ -1,5 +1,5 @@
-{
-data: [ {
+'data':[
+  {
     'uid': 'map_001',
     'name': 'New York City',
     'place': 'USA',
@@ -59,4 +59,5 @@ data: [ {
     'place': 'UAE',
     'url': 'https://example.com/dubai_map.png',
   },
-];}
+]
+}
